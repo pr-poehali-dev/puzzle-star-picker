@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
-import { StarRating } from "@/components/StarRating";
+import { StarRating } from "../components/StarRating";
 import { Brain, Clock } from "lucide-react";
 
 const Index = () => {
